@@ -1,0 +1,7 @@
+html, body, #app, .container {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+  font-family: PingFangSC, Microsoft YaHei, Arial, Helvetica, sans-serif;
+  background-color: $color-accent;
+}
